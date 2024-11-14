@@ -134,7 +134,8 @@ int main() {
 
 ## Output:
 
-![Screenshot 2024-11-13 054345](https://github.com/user-attachments/assets/a5ceb9cb-4839-4edd-aa85-c17c4db96ab4)
+![Screenshot (58)](https://github.com/user-attachments/assets/23c8b60e-dfdb-46ac-a957-8f9915807ae2)
+
 
 
 
